@@ -1,4 +1,4 @@
-# Refactor Plugin for Claude Code
+# Refactor Plugin for LOC
 
 A comprehensive codebase refactoring skill with objective quality scoring, structured execution, and Ralph loop support for codebases of any size — including 100k+ lines.
 
