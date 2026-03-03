@@ -1,0 +1,10 @@
+{
+  "name": "refactor",
+  "description": "A comprehensive codebase refactoring skill with objective quality scoring, structured execution, and Ralph loop support for 100k+ line codebases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Oaksley"
+  },
+  "repository": "",
+  "license": "MIT"
+}
